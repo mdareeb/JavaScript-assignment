@@ -1,7 +1,5 @@
 body{
-   background-image: url(https://seekflag.com/app/uploads/2022/03/Navy-Admiral-Flag-02-1.png);
-   background-repeat: no-repeat;
-   background-size: cover;
+   background-color: rgb(98, 104, 104);
    height: 100vh;
    width: 100% auto;
    overflow: hidden;
@@ -29,7 +27,7 @@ ul{
 }
 
 li{
-    list-style: none;
+   list-style: none;
     height: 40px;
     width: 110px;
     background-color: rgb(215, 214, 227);
@@ -37,4 +35,14 @@ li{
     justify-content: center;
     align-items: center;
     border-radius: 30px;    
+    
+}
+li a{
+    text-decoration: none;
+    color: black;
+}
+li:hover{
+    background-color: lightsteelblue;
+    color: white;
+    cursor: pointer;
 }
