@@ -5,7 +5,7 @@ var age = 19
 //q3 msg
 var Msg = "hello wolrd"
 //q4 email
-var Email = "areebansari707@gmail.com"
+var Email = "MY Email address is areebansari707@gmail.com"
 //q5 book
 var Book = "A smarter way to learn javascript"
 alert(UserName)
